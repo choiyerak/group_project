@@ -55,3 +55,4 @@ function openParentWindow(){
 
 window.addEventListener('click', openParentWindow);
 document.body.style.cursor = 'pointer';
+  
